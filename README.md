@@ -29,7 +29,7 @@
 - [قدردانی](#acknowledgments)
 
 ## 🧐 صورت‌بندی سوال <a name = "problem_statement"></a>
-
+<a href="https://ibb.co/9tz6zH3"><img src="https://i.ibb.co/ws3V3hr/4.png" alt="4" border="0"></a>
 ## 💡 الگوریتم بهینه‌سازی <a name = "idea"></a>
 بازهم از جداسازی استفاده می‌کنیم.
 برای هر ستون یکبار مسأله بهینه‌سازی را با در نظر گرفتن قید
